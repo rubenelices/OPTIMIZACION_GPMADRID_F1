@@ -1,6 +1,6 @@
 # Optimización del Gran Premio de Fórmula 1 de Madrid 🏎️
 
-![Modelo óptimo de estrategia F1 Madrid](images/madrid-gp-f1.png)
+![Modelo óptimo de estrategia F1 Madrid](imagenes/Imagen1.jpg)
 
 ---
 

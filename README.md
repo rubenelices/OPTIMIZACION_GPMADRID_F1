@@ -13,17 +13,3 @@ Se formula un modelo de **Programación No Lineal Entera Mixta (MINLP)** que int
 decisiones estratégicas discretas y variables continuas asociadas al rendimiento
 del monoplaza y la degradación de neumáticos.
 
----
-
-## Contenido
- **Trabajo completo (notebook renderizado):**  
-[Ver README.ipynb](./README.ipynb)
-
----
-
-## Metodología
-- Variables binarias: paradas en boxes, compuestos, modos de carrera  
-- Variables continuas: tiempos de stint, degradación, duración  
-- Función objetivo: minimización del tiempo total de carrera  
-- Restricciones técnicas, reglamentarias y estratégicas  
-- Análisis de sensibilidad de los parámetros clave
